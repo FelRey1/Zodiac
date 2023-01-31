@@ -1,1 +1,1 @@
-# Zodiac
+# First portion of this project takes a specified text file of zodiac sign names, converts it into a LinkedList, converts the list into a HashMap where the keys are the date ranges for the sign and the values are the sign names. The second portion of the this project will then prompt the user if they would like to know information about their zodiac sign and will give more information based on response. 
